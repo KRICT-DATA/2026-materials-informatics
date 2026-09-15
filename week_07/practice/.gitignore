@@ -1,0 +1,8 @@
+.env
+.DS_Store
+__pycache__/
+.ruff_cache/
+.ipynb_checkpoints/
+.claude/settings.local.json
+data/primary_feature_filled.csv
+data/primary_feature_work.csv
